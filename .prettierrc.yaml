@@ -1,0 +1,10 @@
+arrowParens: avoid
+bracketSpacing: true
+endOfLine: auto
+jsxSingleQuote: true
+printWidth: 100
+useTabs: true
+tabWidth: 4
+trailingComma: all
+singleQuote: true
+semi: true
